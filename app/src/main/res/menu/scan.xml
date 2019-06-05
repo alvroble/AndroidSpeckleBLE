@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_info"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:orderInCategory="2"
+        android:title="@string/info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/logo"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/speckle"
+        android:orderInCategory="1"
+        android:title="@string/info"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_scan"
+        android:orderInCategory="100"
+        android:title="@string/menu_scan"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/menu_stop"
+        android:orderInCategory="101"
+        android:title="@string/menu_stop"
+        app:showAsAction="ifRoom|withText" />
+</menu>
+

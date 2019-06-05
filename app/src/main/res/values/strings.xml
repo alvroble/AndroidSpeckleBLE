@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speckle HR</string>
+    <string name="speckle">Speckle</string>
+    <string name="sensor">Heart Rate Monitor</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_scan">Scan</string>
+    <string name="ConnectionStatus">Status: Disconnected</string>
+    <string name="showBPM">- - -</string>
+    <string name="info">Info</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="BatteryLevel">Battery: -</string>
+    <string name="bat_icon">BAT</string>
+    <string name="UC3M_icon">UC3M</string>
+    <string name="GDAF_icon">GDAF</string>
+    <string name="SINFOTON2_icon">SINFOTON2</string>
+</resources>
