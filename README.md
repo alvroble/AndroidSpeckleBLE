@@ -9,13 +9,13 @@ This app asks for Bluetooth and Location permissions, and will work fine from AP
 ## Built With
 
 * [Scanner Compat library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library/)
-* [GraphView](hhttps://github.com/jjoe64/GraphView/)
+* [GraphView](https://github.com/jjoe64/GraphView/)
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
 
 ## Authors
 
-* **Alvaro Robledo** - *Initial work* - 
-* **Ignacio Sánchez** - *Initial work* -
+* **Alvaro Robledo** 
+* **Ignacio Sánchez**
 
 ## License
 
